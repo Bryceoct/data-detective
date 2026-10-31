@@ -28,7 +28,7 @@ potential data quality issues.
 - [x] Display column names
 - [x] Preview records
 - [x] Handle missing files
-- [ ] Handle empty CSV files
+- [x] Handle empty CSV files
 
 ### v0.2 — Data Quality Checks
 - [ ] Detect missing values
